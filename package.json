@@ -1,0 +1,19 @@
+{
+  "name": "@playon/scrollmagic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animation.gsap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TradePlayer/ScrollMagic.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/TradePlayer/ScrollMagic/issues"
+  },
+  "homepage": "https://github.com/TradePlayer/ScrollMagic#readme"
+}
